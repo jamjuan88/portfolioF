@@ -1,0 +1,18 @@
+.row{
+    background-color: #000000;
+    padding: 20px;
+    color: white;
+}
+
+.circulo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+h1{
+    color: rgb(10, 235, 82);
+}
+
+

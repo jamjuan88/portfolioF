@@ -1,0 +1,15 @@
+<div class="row">
+    <div class="container">
+        <div class="logo">
+            <img src="../../../assets/logo_yoprogramo.png" id="logoAP">
+        </div>
+        <div class="redes">
+            <a href="https://www.twitter.com/" target="_blank"><img src="../../../assets/twitter2.png" id="twitter"></a>
+            <a href="https://www.instagram.com/jamjuan88/" target="_blank"><img src="../../../assets/instagram2.png" id="instagram"></a>
+            <a href="https://github.com/jamjuan88" target="_blank"><img src="../../../assets/github.png" id="github"></a>
+            <a href="https://www.facebook.com" target="_blank"><img src="../../../assets/face.png" id="facebook"></a>
+            <button type="button" class="btn btn-outline-light" (click)="login()" *ngIf="!isLogged">INGRESO</button>
+            <button type="button" class="btn btn-outline-light" (click)="onLogOut()" *ngIf="isLogged">CERRAR SESION</button>
+        </div>
+    </div>
+</div>

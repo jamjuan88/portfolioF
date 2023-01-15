@@ -1,0 +1,125 @@
+{
+    "name": "Juan Martínez",
+    "consoleImage":"/assets/img/codigo7.jpg",
+    "Image": "/assets/img/perfil3.jpeg",
+    "backImage": "/assets/img/encabezado_1.jpg",
+   
+   "acercaDe":{   
+    "name": "Altamente comprometido con el desarrollo de cada una de las actividades a mi cargo, responsable, honesto, ordenado y puntual. Dispuesto a desempeñarme en cualquier área designada, llevando a cabo las normas establecidas en el lugar. Proactivo, con ganas de superarme día a día. Creo en el respeto, la honestidad, el trabajo en equipo y el compromiso"  
+   },
+
+   "experiencia":{
+        "empresa1":{
+            "name": "CONSULTAR H&S",
+            "puesto": "SYSTEM MANAGER",
+            "Image": "/assets/img/CONSULTAR_LOGO.png",
+            "fechaInicial": "Mayo 2022",
+            "fechaFinal": "Actualmente",
+            "ciudad": "Buenos Aires",
+            "pais": "Argentina",
+            "actividades": {
+                "a":"✓ Mantenimiento del sistema",
+                "b": "✓ Limpieza y Mantenimiento de equipos.",
+                "c": "✓ Supervisión de los Procesos y Requerimientos del sistema"
+            }},
+
+            "empresa2":{
+                "name": "TOMASSO",
+                "puesto": "ENCARGADO DEL SISTEMA",
+                "Image": "/assets/img/tomasso.png",
+                "fechaInicial": "Sept 2021",
+                "fechaFinal": "Dic 2021",
+                "ciudad": "Buenos Aires",
+                "pais": "Argentina",
+                "actividades": {
+                    "a":"✓ Creación de productos en las diferentes plataformas",
+                    "b": "✓ Análisis y estudio de las bases de datos.",
+                    "c": "✓ Supervisión de negocios a cargo ",
+                    "d": "✓ Manejo del Sistema principal de ventas",
+                    "e": "✓ Manejo de las aplicaciones PedidosYa y Rappi"                     
+                       
+                }
+               },
+
+               "empresa3":{
+                "name": "RESTAURANT CHACAITO",
+                "puesto": "MOZO",
+                "Image": "/assets/img/chacaito.png",
+                "fechaInicial": "Oct 2020",
+                "fechaFinal": "Mayo 2021",
+                "ciudad": "Buenos Aires",
+                "pais": "Argentina",
+                "actividades": {
+                    "a":"✓ Control de stock, e inventario de mercancía en General.",
+                    "b": "✓ Ayudante de barra.",
+                    "c": "✓ Cajero."   
+                }
+               },
+
+               "empresa4":{
+                "name": "ROLDAN BA",
+                "puesto": "BARTENDER",
+                "Image": "/assets/img/roldan.png",
+                "fechaInicial": "Dic 2019",
+                "fechaFinal": "Mayo 2022",
+                "ciudad": "Buenos Aires",
+                "pais": "Argentina",
+                "actividades": {
+                    "a":"✓ Control de stock, e inventario de licores y mercancía en heladeras.",
+                    "b": "✓ Organización y mantenimiento del área del bar.",
+                    "c": "✓ Limpieza de la cristalería y demás instrumentos de trabajo a mi cargo."
+                 }
+               },
+
+               "empresa5":{
+                "name": "CENTRO HIPICO PARAGUANA",
+                "puesto": "ENCARGADO",
+                "Image": "/assets/img/paraguana.png",
+                "fechaInicial": "Agos 2008",
+                "fechaFinal": "Dic 2018",
+                "ciudad": "Buenos Aires",
+                "pais": "Argentina",
+                "actividades": {
+                    "a":"✓ Administración general de la empresa.   ✓ Reclutamiento de personal.",
+                    "b": " ✓ Supervisión y administración de activos.  ✓ Personal a cargo.",
+                    "c": " ✓ Manejo del flujo de caja.                 ✓ Monitoreo de ventas. ",
+                    "d": "  ✓ Realizar actividades propias de admisión y control de clientes en el establecimiento."
+                    }
+               }
+           },
+
+           "educacion":{
+            "liceo":{
+                "name": "LICEO AGUSTIN CODAZZI",
+                "Image": "/assets/img/codazzi.png",
+                "fechaInicial": "2004",
+                "fechaFinal": "2006",
+                "ciudad": "Aragua",
+                "pais": "Venezuela",
+                "titulo": "Bachiller en Ciencias"
+                },
+
+                "Uni":{
+                    "name": "UNIVERSIDAD NACIONAL EXPERIMENTAL ROMULO GALLEGOS",
+                    "Image": "/assets/img/unerg.png",
+                    "fechaInicial": "2007",
+                    "fechaFinal": "2014",
+                    "ciudad": "Guárico",
+                    "pais": "Venezuela",
+                    "carrera": "Estudiante hasta el 9no semestre en Ing. En Sistemas"
+                    }
+                
+                },
+
+                "proyectos":{
+                    "a":{
+                        "name": "Argentina Programa",
+                        "Image": "/assets/img/arg2.png",
+                        "fechaInicial": "06/2022",
+                        "fechaFinal": "01/2023",
+                        "ciudad": " Buenos Aires",
+                        "pais": "Argentina",
+                        "nombreProy": "Porfolio Web Personal"
+                        }
+                      }
+}
