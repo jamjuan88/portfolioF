@@ -9,7 +9,7 @@ import { Experiencia } from '../model/experiencia';
 })
 export class SExperienciaService {
 //HEAD
-  //URL = 'https://porfoliobackfinal.onrender.com';
+  //URL = 'https://';
 //=======
   URL = environment.URL + 'explab/';
 //dbccedd5c18384aa757cbb7ab7d9f7f3bc0e7672

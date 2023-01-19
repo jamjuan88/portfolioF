@@ -9,7 +9,8 @@ import { Educacion } from '../model/educacion';
 })
 export class EducacionService {
 //<<<<<<< HEAD
-  URL = 'https://porfoliobackfinal.onrender.com/educacion/';
+  URL = 'https://backendporfolio-rf8o.onrender.com/educacion/';
+  //URL: 'http://localhost:8080/educacion/';
 //=======
   //URL = environment.URL + 'educacion/';
 //>>>>>>> dbccedd5c18384aa757cbb7ab7d9f7f3bc0e7672
